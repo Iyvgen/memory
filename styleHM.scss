@@ -77,6 +77,7 @@
     border-radius: 5px;
     cursor: pointer;
     font-family: 'Roboto', sans-serif;
+    box-shadow: -5px 5px 20px -5px #010101;
 }
 .mail-to:hover {
     background-color: #6c757d;
@@ -283,7 +284,8 @@ h2 {
 }
 .foto-opinion {
     max-width: 12rem;
-    box-shadow: 0px 5px 5px 0px #adb5bd;
+    // box-shadow: 0px 5px 5px 0px #adb5bd;
+    box-shadow: -5px 5px 20px -5px #010101;
     border-radius: 50%
     
 }

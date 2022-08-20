@@ -11,3 +11,10 @@ https://www.youtube.com/watch?v=woBsUJb1Vn8
 
 багатосторінковий САЙТ html and css
 https://www.youtube.com/watch?v=naWu8wvOLAI
+
+Настройка Gulp - компиляция SASS. Установка NPM
+https://www.youtube.com/watch?v=2T7qlMWl4rc
+
+
+Изучаем JavaScript за 45 минут
+https://www.youtube.com/watch?v=27kpWzGpom8
